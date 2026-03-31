@@ -1,11 +1,14 @@
+
+
 # Claude Code 源码快照（安全研究）
 
 > 本仓库镜像了在 **2026年3月31日** 通过 npm 分发包中的 source map 泄露而公开暴露的 **Claude Code 源码快照**。它仅用于**教育、防御性安全研究和软件供应链分析**。
 
 ---
+翻译来自https://github.com/instructkr/claude-code
 
 ## 研究背景
-翻译来自https://github.com/instructkr/claude-code
+
 本仓库由一名**大学生**维护，用于研究以下内容：
 
 - 软件供应链暴露与构建产物泄露
